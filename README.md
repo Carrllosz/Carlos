@@ -1,6 +1,6 @@
 ### Olá 👋, meu nome é João Carlos e sou estudante de Ciência da Computação.
 - 🔭 Atualmente estou trabalhando como estagiário de PMO, aprimorando minhas soft skills e habilidades técnicas com o Python para automações.
-- 🌱 Atualmente estou apendebdo React Native e React js.
+- 🌱 Atualmente estou aprendendo React Native e React js.
 - 🤝 Busco por projetos para desenvolver minhas habilidades em React.
 
 ![Focusing](https://github-readme-stats.vercel.app/api?username=Carrllosz&show_icons=true&theme=dracula)
