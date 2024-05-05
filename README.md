@@ -3,7 +3,7 @@
 - 🌱 Atualmente estou aprendendo React Native e React js.
 - 🤝 Busco por projetos para desenvolver minhas habilidades em React.
 
-![Focusing](https://github-readme-stats.vercel.app/api?username=Carrllosz&show_icons=true&theme=dracula)
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carrllosz&layout=compact&theme=dracula&locale=pt-br&text_color=FFFFFD&title_color=FCFCFC&card_width=450&langs_count=12" height="180em">
 
 
